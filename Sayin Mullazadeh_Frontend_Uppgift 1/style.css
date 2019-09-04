@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box; 
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.0em;
+    color: brown;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.0em;
+    color: purple; 
+}
+
+.figcaption-main {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5em;
+    color: darkolivegreen;
+}
+a:link {
+    color: darkgreen;
+}
+a:visited {
+    color: darkorchid;
+}
+.box-all {
+    width: 960px;
+    margin: 20px auto 20px auto;
+    border: groove;
+    border-radius: 5px;
+    padding-top: 50px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+}
+
+.lista-portfolio{
+    list-style: none;
+}
